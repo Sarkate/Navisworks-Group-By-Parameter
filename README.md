@@ -1,2 +1,2 @@
 # Navisworks-Group-By-Parameter
-Group Revit element by its parameter
+Group imported Revit elements by erection sequence parameter 
